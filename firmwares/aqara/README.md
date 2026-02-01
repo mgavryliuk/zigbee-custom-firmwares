@@ -3,9 +3,9 @@
 ## Available
 | Device | Model | Documentation | Sources |
 |-------------|-------------|--------|--------|
-| Wireless remote switch D1 (single rocker) | [WXKG06LM](https://www.zigbee2mqtt.io/devices/WXKG06LM.html) | [Firmwares](WXKG06LM/README.md) | [Source](https://github.com/mgavryliuk/zcf-src-jn5169-ed/) |
-| Wireless remote switch D1 (double rocker) | [WXKG07LM](https://www.zigbee2mqtt.io/devices/WXKG07LM.html) | [Firmwares](WXKG07LM/README.md) | [Source](https://github.com/mgavryliuk/zcf-src-jn5169-ed/) |
-| Wireless mini switch | [WXKG11LM](https://www.zigbee2mqtt.io/devices/WXKG11LM.html) | [Firmwares](WXKG11LM/README.md) | [Source](https://github.com/mgavryliuk/zcf-src-jn5169-ed/) |
+| Wireless remote switch D1 (single rocker) | [WXKG06LM](https://www.zigbee2mqtt.io/devices/WXKG06LM.html) | [Firmwares](WXKG06LM/README.md) | [Source](https://github.com/mgavryliuk/zcf-jn5169-ed-switches/) |
+| Wireless remote switch D1 (double rocker) | [WXKG07LM](https://www.zigbee2mqtt.io/devices/WXKG07LM.html) | [Firmwares](WXKG07LM/README.md) | [Source](https://github.com/mgavryliuk/zcf-jn5169-ed-switches/) |
+| Wireless mini switch | [WXKG11LM](https://www.zigbee2mqtt.io/devices/WXKG11LM.html) | [Firmwares](WXKG11LM/README.md) | [Source](https://github.com/mgavryliuk/zcf-jn5169-ed-switches/) |
 
 
 ## In Progress

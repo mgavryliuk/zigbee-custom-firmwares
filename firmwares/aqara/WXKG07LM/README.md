@@ -59,7 +59,7 @@ The custom firmware supports next features:
 Flash a device and install z2m converter.
 
 ## Flashing
-See [JN5169 Flashing Guide](../../../docs/flashing/jn5169.md) for detailed flashing instructions.
+See [JN5169 Flashing Guide](https://github.com/mgavryliuk/zcf-jn5169-ed-switches/?tab=readme-ov-file#flashing) for detailed flashing instructions.
 
 ## Zigbee2MQTT Converter
 For more details, see the [External Converters](https://www.zigbee2mqtt.io/advanced/more/external_converters.html) documentation.

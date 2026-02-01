@@ -7,11 +7,10 @@ This repository contains custom build firmwares for various Zigbee devices.
 |-------------|---------------|
 | Aqara | [Devices](firmwares/aqara/README.md) |
 
-## Support the Project
-If you find this project helpful, please consider supporting the development. Due to limited payment options available in Ukraine, these are currently the only ways to support the project:
-* becoming a patron on [Patreon](https://www.patreon.com/mgavryliuk) to help fund ongoing development and maintenance
-* make a one-time contribution through the [Patreon store](https://www.patreon.com/mgavryliuk/shop)
+## Flashing (recommended tools)
 
-Your support allows me to dedicate more time to improving and expanding the custom firmware options.
+- FTDI adapter with 3.3V  
+![ftdi_adapter.png](images/ftdi_adapter.png)
 
-**Thank you!**
+- PCB Pogo Pin Clamp (1x6 1.27mm)  
+![pogo_clamp.png](images/pogo_clamp.png)
