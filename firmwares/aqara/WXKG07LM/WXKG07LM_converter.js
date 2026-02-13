@@ -7,8 +7,8 @@ const e = exposes.presets;
 const manufacturerCode = 0x1037;
 const manufacturerOptions = { manufacturerCode: manufacturerCode, disableDefaultResponse: true };
 const manufacturerClusterAttributes = {
-    buttonMode: { ID: 0x0000, type: Zcl.DataType.ENUM8 },
-    preventReset: { ID: 0x0001, type: Zcl.DataType.BOOLEAN },
+    buttonMode: { ID: 0x0000, type: Zcl.DataType.ENUM8, write: true },
+    preventReset: { ID: 0x0001, type: Zcl.DataType.BOOLEAN, write: true },
 }
 const deviceExtend = {
     ManuConfigurationCluster: () => {
