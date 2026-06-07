@@ -13,6 +13,7 @@ const manufacturerClusterAttributes = {
 const deviceExtend = {
     ManuConfigurationCluster: () => {
         const extend = mExt.deviceAddCustomCluster("ManuConfiguration", {
+            name: "ManuConfiguration",
             ID: 0xFC00,
             manufacturerCode: manufacturerCode,
             attributes: manufacturerClusterAttributes,
